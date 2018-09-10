@@ -1,9 +1,10 @@
 # Enkel addition
 
 - A-nivå
-- [GitBook](https://coursepress.gitbooks.io/1dv021/content/ovningsuppgifter/del1/hello-world/)
+- [GitBook](https://coursepress.gitbook.io/1dv021/ovningsuppgifter/del-1/a-niva/enkel-addition)
+- Lösningsförslag(https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/simple-addition)]
 
-> __VIKTIGT!__ Innan du börjar arbeta med övningsuppgiften är det viktigt att du följer guiden [Att komma igång med en övningsuppgift](https://coursepress.gitbooks.io/1dv021/content/guider/att-komma-igang-med-en-ovningsuppgift/) för att lägga till övningsuppgiftens repo till ditt repo för övningsuppgifter.
+> __VIKTIGT!__ Innan du börjar arbeta med övningsuppgiften är det viktigt att du följer guiden [Att komma igång med en övningsuppgift](https://coursepress.gitbook.io/1dv021/guider/att-komma-igang-med-en-ovningsuppgift) för att lägga till övningsuppgiftens repo till ditt repo för övningsuppgifter.
 
 Hämta hem övningsuppgiftens repo och lägg till en .gitignore-fil. I filerna `app.js` och `calc.js` saknas det kod. Kommentaren `// TODO: Write your code here.` indikerar var det saknas kod. Sammanhanget TODO-kommentaren står i ger vilken kod som saknas.
 
@@ -28,7 +29,3 @@ Funktioner, metoder, etc. som *kan* komma till användning beroende hur du välj
 - [return](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
 - [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 - [console.log](https://nodejs.org/api/console.html#console_console_log_data)
-
-## Lösningsförslag
-
-- [https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/simple-addition](https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/simple-addition)
