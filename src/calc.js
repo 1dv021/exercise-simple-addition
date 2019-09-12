@@ -14,8 +14,8 @@
  * @returns {number} The number 42.
  */
 function addNumbers () {
-  let firstNumber = 12
-  let secondNumber = 30
+  const firstNumber = 12
+  const secondNumber = 30
 
   // TODO: Write your code here.
 }
